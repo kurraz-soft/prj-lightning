@@ -1,4 +1,4 @@
-prj-lightning
+Project Lightning
 =============
 
-Project Lightning
+Html5 Canvas implementation of lightning
